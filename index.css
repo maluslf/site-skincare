@@ -1,0 +1,159 @@
+.image-1-icon {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    width: 1440px;
+    height: 990px;
+    object-fit: cover;
+}
+.label {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+}
+.header-menu-default {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.label1 {
+    position: relative;
+    line-height: 24px;
+}
+.menu-item-default4 {
+    width: 0px;
+    height: 24px;
+}
+.heading-name {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.cabealho {
+    position: absolute;
+    height: 6.15%;
+    width: 39.03%;
+    top: 4.39%;
+    right: 34.03%;
+    bottom: 89.45%;
+    left: 26.94%;
+}
+.button {
+    border-radius: 6px;
+    background-color: #f5f7fa;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 20px;
+}
+.sign-up {
+    position: relative;
+    line-height: 20px;
+    font-weight: 500;
+}
+.button1 {
+    border-radius: 6px;
+    background-color: #6a4d83;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 20px;
+    color: #fff;
+}
+.login {
+    position: absolute;
+    height: 3.91%;
+    width: 12.64%;
+    top: 5.47%;
+    right: 5.21%;
+    bottom: 90.63%;
+    left: 82.15%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+    text-align: center;
+    font-size: 14px;
+    color: #6a4d83;
+}
+.user-icon {
+    position: absolute;
+    top: 61px;
+    left: 1132px;
+    width: 32px;
+    height: 28px;
+    overflow: hidden;
+}
+.carrinho-icon {
+    position: absolute;
+    top: 61px;
+    left: 1065px;
+    width: 29px;
+    height: 28px;
+    overflow: hidden;
+}
+.x-logo-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.logo-instagram-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.button-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.redes-sociais {
+    position: absolute;
+    top: 969px;
+    left: 44px;
+    width: 262px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-width: 240px;
+}
+.image-2-icon {
+    position: absolute;
+    top: 56px;
+    left: 77px;
+    width: 197px;
+    height: 43px;
+    object-fit: cover;
+}
+.landing-page {
+    width: 100%;
+    position: relative;
+    background-color: #ddbdff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #18191f;
+    font-family: Inter;
+}
+
